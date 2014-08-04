@@ -8,3 +8,6 @@
 .project
 .settings
 target
+
+# Matlab autosave
+*.m~
