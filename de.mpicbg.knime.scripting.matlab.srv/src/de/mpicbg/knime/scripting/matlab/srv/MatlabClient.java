@@ -380,6 +380,7 @@ public class MatlabClient {
 
 		
 		
+		private int clientNumber;
 
 		/**
 		 * Constructor
