@@ -378,9 +378,6 @@ public class MatlabClient {
 		/** Client number (to distinguish the calls to {@link MatlabController} and {@link MatlabServer} */
 		private int clientNumber;
 
-		
-		
-		private int clientNumber;
 
 		/**
 		 * Constructor
